@@ -9,7 +9,7 @@
 # print("Hello World") # this is code for hello world 
 print("my name is Akshada")
 print("5+2")        # double iverted comma is shows output as it is.......................    function()
-#print("Manoj")
+#print("me")
 #print("Mummy")
 #print("Pappa")
 #print("Didi")
@@ -28,11 +28,11 @@ print(5//2) #floor division
 print(5/2) #simple division
 print(5%2) #modulus ( checking for reminder )
 
-a = "Sorriee  " 
+a = "operation  " 
 print(a*10)
 # while having space in between the strings
 # print(a)
 # print(a * 10)
-print("\nSorriee"*10)  # \n is used for new line
-print("Sorriee\t" * 10) # \t is used for tab space
-print("Sorriee")
+print("\noperation"*10)  # \n is used for new line
+print("operation\t" * 10) # \t is used for tab space
+print("operation")
